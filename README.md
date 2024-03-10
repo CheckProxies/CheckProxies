@@ -16,5 +16,5 @@
   ![https://raw.githubusercontent.com/CheckProxies/CheckProxies/main/3.png](https://raw.githubusercontent.com/CheckProxies/CheckProxies/main/3.png)
 
 ## Download:
-- Tool PC [CheckProxies.zip](https://github.com/CheckProxies/CheckProxies/releases/download/1.0.0/CheckProxies.zip)
+- Tool PC [CheckProxies.zip](https://github.com/CheckProxies/CheckProxies/releases/download/1.0.2/CheckProxies_1.0.2.zip)
 - Online Server: [https://checkproxy.online](https://checkproxy.online/)
